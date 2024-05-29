@@ -1,2 +1,2 @@
 # UNO +
-An enchanced UNO experience, coded in Java
+An enhanced edition of Uno, in Java
